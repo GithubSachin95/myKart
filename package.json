@@ -1,0 +1,25 @@
+{
+  "name": "my-kart",
+  "version": "1.0.0",
+  "description": "Api created for my-kart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sachin Dukale",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.17.6",
+    "body-parser": "^1.18.3",
+    "cookie-parse": "^0.4.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "g": "^2.0.1",
+    "logger": "0.0.1",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.2.8",
+    "pino": "^5.8.0",
+    "shortid": "^2.2.13"
+  }
+}

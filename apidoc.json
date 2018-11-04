@@ -1,0 +1,7 @@
+{
+    "name":"My kart",
+    "version" : "0.0.1",
+    "description" : "Dcoumentation for Mykart application",
+    "title" : "MyKart",
+    "url":"http://localhost:3000"
+}
